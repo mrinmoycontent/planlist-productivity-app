@@ -153,7 +153,6 @@ Before running the application locally, ensure you have:
 
 ### Installation
 
-Clone the repository:
-
+Live Link
 ```bash
 https://planlist.ai.studio/
