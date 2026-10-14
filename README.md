@@ -156,4 +156,4 @@ Before running the application locally, ensure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/planlist-productivity-app.git
+https://planlist.ai.studio/
