@@ -1,0 +1,6 @@
+{
+  "name": "PlanList",
+  "description": "Turn goals and plans into clear, actionable daily task lists with intuitive planner, lists, calendar, goals breakdown, focus timer, and review analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
